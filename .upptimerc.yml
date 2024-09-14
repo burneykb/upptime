@@ -3,14 +3,16 @@ owner: burneykb # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Plex
-    url: https://plex.burneykb.com
   - name: Authelia
     url: https://auth.burneykb.com
+  - name: Vaultwarden
+    url: https://vaultwarden.burneykb.com
+  - name: Plex
+    url: https://plex.burneykb.com
+    expectedStatusCodes:
+      - 401
   - name: 404 Landing Page
     url: https://thissitedoesntexist.burneykb.com
-    expectedStatusCodes:
-      - 404
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
