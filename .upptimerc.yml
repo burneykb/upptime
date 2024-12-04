@@ -13,6 +13,8 @@ sites:
       - 401
   - name: 404 Landing Page
     url: https://thissitedoesntexist.burneykb.com
+  - name: Immich
+    url: https://photos.burneykb.com
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
