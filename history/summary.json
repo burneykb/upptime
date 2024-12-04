@@ -4,10 +4,10 @@
     "url": "https://auth.burneykb.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.burneykb.com.ico",
     "slug": "authelia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
@@ -15,17 +15,19 @@
     "timeWeek": 213,
     "timeMonth": 216,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 1
+    }
   },
   {
     "name": "Vaultwarden",
     "url": "https://vaultwarden.burneykb.com",
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.burneykb.com.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
@@ -33,16 +35,18 @@
     "timeWeek": 216,
     "timeMonth": 217,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 1
+    }
   },
   {
     "name": "Plex",
     "url": "https://plex.burneykb.com",
     "icon": "https://icons.duckduckgo.com/ip3/plex.burneykb.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -52,6 +56,7 @@
     "timeMonth": 210,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2024-12-04": 0,
       "2024-09-14": 17
     }
   },
@@ -67,12 +72,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 273,
-    "timeWeek": 215,
-    "timeMonth": 208,
+    "timeDay": 267,
+    "timeWeek": 221,
+    "timeMonth": 209,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2024-09-14": 16
     }
+  },
+  {
+    "name": "Immich",
+    "url": "https://photos.burneykb.com",
+    "icon": "https://icons.duckduckgo.com/ip3/photos.burneykb.com.ico",
+    "slug": "immich",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
+    "dailyMinutesDown": {}
   }
 ]
