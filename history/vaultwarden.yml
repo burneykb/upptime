@@ -1,7 +1,7 @@
 url: https://vaultwarden.burneykb.com
-status: up
-code: 200
-responseTime: 211
-lastUpdated: 2025-06-03T23:18:37.279Z
+status: down
+code: 503
+responseTime: 285
+lastUpdated: 2025-06-04T17:19:09.357Z
 startTime: 2024-09-14T22:54:58.255Z
 generator: Upptime <https://github.com/upptime/upptime>
