@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.burneykb.com.ico",
     "slug": "authelia",
     "status": "up",
-    "uptime": "91.25%",
+    "uptime": "91.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.88%",
     "time": 224,
-    "timeDay": 180,
-    "timeWeek": 241,
-    "timeMonth": 215,
+    "timeDay": 215,
+    "timeWeek": 235,
+    "timeMonth": 214,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
@@ -65,8 +65,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 333
+      "2024-12-25": 1440
     }
   },
   {
@@ -75,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.burneykb.com.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "91.26%",
+    "uptime": "91.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.88%",
     "time": 225,
-    "timeDay": 227,
-    "timeWeek": 244,
-    "timeMonth": 211,
+    "timeDay": 210,
+    "timeWeek": 246,
+    "timeMonth": 212,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
@@ -133,8 +132,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 332
+      "2024-12-25": 1440
     }
   },
   {
@@ -143,14 +141,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.burneykb.com.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "91.25%",
+    "uptime": "91.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.87%",
     "time": 222,
-    "timeDay": 165,
-    "timeWeek": 210,
+    "timeDay": 203,
+    "timeWeek": 207,
     "timeMonth": 192,
     "timeYear": 214,
     "dailyMinutesDown": {
@@ -202,8 +200,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 332
+      "2024-12-25": 1440
     }
   },
   {
@@ -212,15 +209,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesntexist.burneykb.com.ico",
     "slug": "404-landing-page",
     "status": "up",
-    "uptime": "91.26%",
+    "uptime": "91.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.89%",
     "time": 209,
-    "timeDay": 225,
+    "timeDay": 201,
     "timeWeek": 203,
-    "timeMonth": 200,
+    "timeMonth": 201,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
@@ -270,8 +267,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 331
+      "2024-12-25": 1440
     }
   },
   {
@@ -280,15 +276,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.burneykb.com.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "89.43%",
+    "uptime": "89.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "88.88%",
     "time": 257,
-    "timeDay": 158,
-    "timeWeek": 185,
-    "timeMonth": 186,
+    "timeDay": 246,
+    "timeWeek": 190,
+    "timeMonth": 189,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-12-08": 39,
@@ -340,8 +336,7 @@
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 331
+      "2024-12-25": 1440
     }
   },
   {
@@ -350,15 +345,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fantasy.burneykb.com.ico",
     "slug": "fantasy",
     "status": "up",
-    "uptime": "96.46%",
+    "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.46%",
+    "uptimeYear": "96.49%",
     "time": 186,
-    "timeDay": 167,
-    "timeWeek": 201,
-    "timeMonth": 194,
+    "timeDay": 229,
+    "timeWeek": 204,
+    "timeMonth": 196,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
