@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.burneykb.com.ico",
     "slug": "authelia",
     "status": "up",
-    "uptime": "91.44%",
+    "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.14%",
+    "uptimeYear": "91.41%",
     "time": 224,
-    "timeDay": 182,
-    "timeWeek": 225,
-    "timeMonth": 218,
+    "timeDay": 234,
+    "timeWeek": 236,
+    "timeMonth": 220,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
@@ -55,8 +55,7 @@
       "2025-05-09": 18,
       "2025-04-17": 112,
       "2025-01-07": 20,
-      "2025-01-04": 1050,
-      "2025-01-03": 1195
+      "2025-01-04": 1050
     }
   },
   {
@@ -65,15 +64,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.burneykb.com.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "91.44%",
+    "uptime": "91.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.15%",
+    "uptimeYear": "91.42%",
     "time": 224,
-    "timeDay": 120,
-    "timeWeek": 186,
-    "timeMonth": 200,
+    "timeDay": 234,
+    "timeWeek": 195,
+    "timeMonth": 202,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
@@ -113,8 +112,7 @@
       "2025-05-21": 430,
       "2025-05-19": 23,
       "2025-04-17": 112,
-      "2025-01-04": 1049,
-      "2025-01-03": 1194
+      "2025-01-04": 1049
     }
   },
   {
@@ -123,15 +121,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.burneykb.com.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "91.43%",
+    "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.14%",
+    "uptimeYear": "91.41%",
     "time": 222,
-    "timeDay": 185,
-    "timeWeek": 187,
-    "timeMonth": 188,
+    "timeDay": 224,
+    "timeWeek": 197,
+    "timeMonth": 189,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
@@ -172,8 +170,7 @@
       "2025-05-19": 23,
       "2025-04-17": 111,
       "2025-02-02": 36,
-      "2025-01-04": 1048,
-      "2025-01-03": 1223
+      "2025-01-04": 1048
     }
   },
   {
@@ -182,14 +179,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesntexist.burneykb.com.ico",
     "slug": "404-landing-page",
     "status": "up",
-    "uptime": "91.44%",
+    "uptime": "91.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.16%",
+    "uptimeYear": "91.43%",
     "time": 208,
-    "timeDay": 104,
-    "timeWeek": 176,
+    "timeDay": 154,
+    "timeWeek": 179,
     "timeMonth": 182,
     "timeYear": 207,
     "dailyMinutesDown": {
@@ -230,8 +227,7 @@
       "2025-05-21": 430,
       "2025-05-19": 22,
       "2025-04-17": 111,
-      "2025-01-04": 1047,
-      "2025-01-03": 1171
+      "2025-01-04": 1047
     }
   },
   {
@@ -240,15 +236,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.burneykb.com.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "89.70%",
+    "uptime": "89.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "91.15%",
+    "uptimeYear": "91.42%",
     "time": 255,
-    "timeDay": 134,
-    "timeWeek": 181,
-    "timeMonth": 182,
+    "timeDay": 149,
+    "timeWeek": 183,
+    "timeMonth": 180,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-12-08": 39,
@@ -290,8 +286,7 @@
       "2025-05-21": 430,
       "2025-05-19": 22,
       "2025-04-17": 110,
-      "2025-01-04": 1047,
-      "2025-01-03": 1164
+      "2025-01-04": 1047
     }
   },
   {
@@ -300,15 +295,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fantasy.burneykb.com.ico",
     "slug": "fantasy",
     "status": "up",
-    "uptime": "96.72%",
+    "uptime": "96.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.72%",
+    "uptimeYear": "96.75%",
     "time": 185,
-    "timeDay": 114,
-    "timeWeek": 175,
-    "timeMonth": 185,
+    "timeDay": 248,
+    "timeWeek": 191,
+    "timeMonth": 186,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
