@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.burneykb.com.ico",
     "slug": "authelia",
     "status": "up",
-    "uptime": "92.96%",
+    "uptime": "92.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "91.82%",
     "time": 249,
-    "timeDay": 179,
-    "timeWeek": 191,
-    "timeMonth": 329,
+    "timeDay": 191,
+    "timeWeek": 193,
+    "timeMonth": 327,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2026-04-06": 78,
@@ -53,8 +53,7 @@
       "2025-05-22": 1440,
       "2025-05-21": 430,
       "2025-05-19": 24,
-      "2025-05-09": 18,
-      "2025-04-17": 112
+      "2025-05-09": 18
     }
   },
   {
@@ -63,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vaultwarden.burneykb.com.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "92.96%",
+    "uptime": "92.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "91.83%",
     "time": 215,
-    "timeDay": 189,
-    "timeWeek": 204,
-    "timeMonth": 199,
+    "timeDay": 186,
+    "timeWeek": 198,
+    "timeMonth": 197,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2026-04-06": 78,
@@ -110,8 +109,7 @@
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 430,
-      "2025-05-19": 23,
-      "2025-04-17": 112
+      "2025-05-19": 23
     }
   },
   {
@@ -120,16 +118,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.burneykb.com.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "92.95%",
+    "uptime": "92.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "91.83%",
-    "time": 209,
-    "timeDay": 144,
-    "timeWeek": 207,
-    "timeMonth": 188,
-    "timeYear": 204,
+    "time": 208,
+    "timeDay": 96,
+    "timeWeek": 186,
+    "timeMonth": 185,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2026-04-06": 78,
       "2025-10-04": 1017,
@@ -167,8 +165,7 @@
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 430,
-      "2025-05-19": 23,
-      "2025-04-17": 111
+      "2025-05-19": 23
     }
   },
   {
@@ -177,15 +174,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesntexist.burneykb.com.ico",
     "slug": "404-landing-page",
     "status": "up",
-    "uptime": "92.97%",
+    "uptime": "93.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.84%",
     "time": 231,
-    "timeDay": 160,
-    "timeWeek": 196,
-    "timeMonth": 603,
+    "timeDay": 192,
+    "timeWeek": 193,
+    "timeMonth": 445,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
@@ -223,8 +220,7 @@
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 430,
-      "2025-05-19": 22,
-      "2025-04-17": 111
+      "2025-05-19": 22
     }
   },
   {
@@ -233,15 +229,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.burneykb.com.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "91.83%",
+    "uptime": "91.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.83%",
     "time": 245,
-    "timeDay": 296,
-    "timeWeek": 219,
-    "timeMonth": 240,
+    "timeDay": 96,
+    "timeWeek": 187,
+    "timeMonth": 237,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2025-12-08": 39,
@@ -281,8 +277,7 @@
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 430,
-      "2025-05-19": 22,
-      "2025-04-17": 110
+      "2025-05-19": 22
     }
   },
   {
@@ -291,16 +286,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fantasy.burneykb.com.ico",
     "slug": "fantasy",
     "status": "up",
-    "uptime": "98.15%",
+    "uptime": "98.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.15%",
-    "time": 240,
-    "timeDay": 148,
-    "timeWeek": 197,
-    "timeMonth": 608,
-    "timeYear": 240,
+    "uptimeYear": "98.16%",
+    "time": 239,
+    "timeDay": 99,
+    "timeWeek": 187,
+    "timeMonth": 602,
+    "timeYear": 239,
     "dailyMinutesDown": {
       "2025-10-04": 1017,
       "2025-10-03": 1440,
