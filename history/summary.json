@@ -12,7 +12,7 @@
     "uptimeYear": "98.78%",
     "time": 238,
     "timeDay": 253,
-    "timeWeek": 207,
+    "timeWeek": 206,
     "timeMonth": 182,
     "timeYear": 240,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "98.78%",
     "time": 225,
     "timeDay": 304,
-    "timeWeek": 238,
+    "timeWeek": 229,
     "timeMonth": 217,
     "timeYear": 224,
     "dailyMinutesDown": {
@@ -54,15 +54,15 @@
     "url": "https://plex.burneykb.com",
     "icon": "https://icons.duckduckgo.com/ip3/plex.burneykb.com.ico",
     "slug": "plex",
-    "status": "up",
-    "uptime": "94.34%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.35%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
     "time": 197,
-    "timeDay": 233,
-    "timeWeek": 191,
+    "timeDay": 212,
+    "timeWeek": 189,
     "timeMonth": 182,
     "timeYear": 189,
     "dailyMinutesDown": {
@@ -71,7 +71,8 @@
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 993,
-      "2026-04-06": 78
+      "2026-04-06": 78,
+      "2026-09-04": 0
     }
   },
   {
@@ -111,7 +112,7 @@
     "uptimeYear": "98.76%",
     "time": 194,
     "timeDay": 184,
-    "timeWeek": 205,
+    "timeWeek": 196,
     "timeMonth": 173,
     "timeYear": 187,
     "dailyMinutesDown": {
@@ -137,7 +138,7 @@
     "uptimeYear": "98.80%",
     "time": 217,
     "timeDay": 249,
-    "timeWeek": 192,
+    "timeWeek": 184,
     "timeMonth": 173,
     "timeYear": 218,
     "dailyMinutesDown": {
