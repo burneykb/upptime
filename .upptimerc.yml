@@ -7,8 +7,8 @@ sites:
     url: https://auth.burneykb.com
   - name: Vaultwarden
     url: https://vaultwarden.burneykb.com
-  - name: Plex
-    url: https://plex.burneykb.com
+  - name: Jellyfin
+    url: https://jellyfin.burneykb.com
     expectedStatusCodes:
       - 401
   - name: 404 Landing Page
